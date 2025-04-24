@@ -1,1 +1,4 @@
-Insira seu resumo aqui!
+O conteúdo que foi revisado na primeira aula de Introdução a Programação web foram Github, Github classrom e Github codespace.
+O Github é uma plataforma de códigos e atividades, enquanto o classrom é para somente atividades como se fosse uma sala de aula, e o codespace são códigos do Github,
+ou seja cada um tem um processo diferente da plataforma do Github.   
+
